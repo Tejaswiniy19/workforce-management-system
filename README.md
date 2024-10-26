@@ -1,4 +1,4 @@
-# Employee Management System 🏢
+# 💼 Workforce Management System
 
 ## 📜 Description
 The Employee Management System is a web application built using Flask that allows you to manage employees, their shifts, attendance, and tasks efficiently. Users can sign up, log in, and access different functionalities to maintain employee records and statistics.
