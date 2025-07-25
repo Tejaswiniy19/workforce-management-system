@@ -212,5 +212,7 @@ def get_tasks_with_names():
         JOIN employees ON tasks.employee_id = employees.id
     """)
     tasks = cursor.fetchall()
+    
+    conn.commit()
     conn.close()
     return tasks
